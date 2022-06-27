@@ -17,10 +17,11 @@ const AboutUs = () => {
           <h1 className="headtext__cormorant">About Us</h1>
           <img src={images.spoon} alt="about_spoon" className="spoon__img" />
           <p className="p__opensans">
-            Do You Have A Solid Knowledge Of HTML, CSS, And JavaScript While
-            Being Mindful Of The Diverse Ecosystem Of Devices And Connections?
-            We’re Looking For Experienced Frontend Developers Who Love To Learn
-            And Collaborate.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
+            mollitia, molestiae quas vel sint commodi repudiandae consequuntur
+            voluptatum laborum numquam blanditiis harum quisquam eius sed odit
+            fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.
           </p>
           <button type="button" className="custom__button">
             Know More
@@ -33,10 +34,11 @@ const AboutUs = () => {
           <h1 className="headtext__cormorant">Our History</h1>
           <img src={images.spoon} alt="about_spoon" className="spoon__img" />
           <p className="p__opensans">
-            Do You Have A Solid Knowledge Of HTML, CSS, And JavaScript While
-            Being Mindful Of The Diverse Ecosystem Of Devices And Connections?
-            We’re Looking For Experienced Frontend Developers Who Love To Learn
-            And Collaborate.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
+            mollitia, molestiae quas vel sint commodi repudiandae consequuntur
+            voluptatum laborum numquam blanditiis harum quisquam eius sed odit
+            fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.
           </p>
           <button type="button" className="custom__button">
             Know More

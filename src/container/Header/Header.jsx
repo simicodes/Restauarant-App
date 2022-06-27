@@ -11,10 +11,11 @@ const Header = () => {
         <SubHeading title="Chase the new flavour" />
         <h1 className="app__header-h1">The key to find dining</h1>
         <p className="p__opensans" style={{ margin: "2rem 0" }}>
-          Do you have a solid knowledge of HTML, CSS, and JavaScript while being
-          mindful of the diverse ecosystem of devices and connections? We’re
-          looking for experienced Frontend Developers who love to learn and
-          collaborate.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
+          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
+          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
+          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
+          accusantium nemo autem.
         </p>
         <button type="button" className="custom__button">
           Explore Menu
