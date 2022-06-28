@@ -13,7 +13,7 @@ const FindUs = () => {
         </h1>
         <div className="app__wrapper-content">
           <p className="p__opensans">
-            No. 119 Goldie Street, Calabar - Nigeria
+            119 Goldie Street, Calabar - Nigeria
           </p>
           <p
             className="p__cormorant"
