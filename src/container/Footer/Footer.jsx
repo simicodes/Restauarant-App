@@ -44,7 +44,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="footer__copyright">
-      <p className="p__opensans">2022 Gericht. All Rights reserved.</p>
+      <p className="p__opensans">&copy;2022 Gericht. All Rights reserved.</p>
     </div>
   </div>
 );
